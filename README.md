@@ -15,7 +15,7 @@ I am Maham Jamil, an intern at Codsoft, passionate about software development.
    - **Outcomes**: Functional calculator, improved problem-solving, UI design skills.
 
 
-[**Project 1**: **Password Generator 🔐**](project)
+[**Project 2**: **Password Generator 🔐**](project)
 
    - **Description**: Created a secure password generator.
    - **Contributions**: Developed the algorithm with a focus on security.
