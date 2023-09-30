@@ -61,7 +61,7 @@ You can then choose to continue with the result or perform another calculation.
 
 👤 Maham Jamil
 
-# 📧 Contact
+## 📧 Contact
 
 [GitHub repository](https://github.com/Maham-j)
 
