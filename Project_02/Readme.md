@@ -66,6 +66,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.🤝
 
 ## License
 
-This Password Generator is open-source under the [MIT License](LICENSE).📜
+This Password Generator is open-source under the [GNU General Public License v3.0](LICENSE).📜
 
-If you encounter issues or have questions, please [open an issue](https://github.com/yourusername/password-generator/issues).🚀
+If you encounter issues or have questions, please [open an issue](issue)
+
+[GitHub repository](https://github.com/Maham-j)
+
+ [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+ [HackerRank ](https://www.hackerrank.com/maham_jamil)
