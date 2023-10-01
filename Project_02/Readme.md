@@ -40,23 +40,18 @@ python password_generator.py [options]
 
 ### Options
 
-- `-l` or `--length`: Password length (default: 12).
-- `-ul` or `--uppercase`: Include uppercase letters.
-- `-ll` or `--lowercase`: Include lowercase letters.
-- `-n` or `--numbers`: Include numbers.
-- `-s` or `--special`: Include special characters.
-- `-e` or `--exclude-ambiguous`: Exclude ambiguous characters (e.g., '1', 'l', '0', 'O').
-- `-r` or `--random-order`: Random character order for added security.
-- `-c` or `--copy-to-clipboard`: Copy password to clipboard.
-- `-h` or `--help`: Show help message.
+The PyPassword Generator will prompt you to input the following:
 
-Example:
+- Number of letters: Enter how many letters you would like in your password.
 
+- Number of numbers: Specify how many numbers to include.
+
+- Number of symbols: Determine how many symbols should be in your password.
+
+# Example usage:
 ```bash
-# Generate a 16-character password with uppercase, lowercase, and numbers.
-python password_generator.py -l 16 -ul -ll -n
+  Your required password is: A3$gB5L7@8
 ```
-
 ## Customization
 
 You can customize password settings in `config.py` or through command-line options.🛠️
