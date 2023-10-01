@@ -60,10 +60,6 @@ You can customize password settings in `config.py` or through command-line optio
 
 This tool uses a secure random generator for strong passwords. Remember to follow password best practices and use a reputable password manager.🔒
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.🤝
-
 ## License
 
 This Password Generator is open-source under the [GNU General Public License v3.0](LICENSE).📜
