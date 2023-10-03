@@ -1,6 +1,6 @@
 from random import*
 
-Rock = '''   
+Rock = '''    
     _______
 ---'   ____)
       (_____)
