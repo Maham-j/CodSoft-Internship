@@ -7,7 +7,7 @@ letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N',
 # List of numbers
 numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'] 
 
-# List of symbols
+# List of symbols 
 symbols = ['#', '!', '$', '%', '&', '*', '+', ',','^','@']
 
 # Welcome message and input from the user
