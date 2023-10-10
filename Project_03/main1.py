@@ -1,4 +1,4 @@
-from random import*
+from random import* 
 
 Rock = '''    
     _______
