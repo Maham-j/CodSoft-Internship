@@ -17,4 +17,14 @@ Welcome to the Quiz Game! 🎉 This fun quiz will test your knowledge with quick
 # **License:**
 - Open-source under the MIT License. Feel free to contribute and share the fun!
 
+ ## Connect with Me 🌐 
+
+Discover more exciting coding projects on my [GitHub repository](https://github.com/Maham-j)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
+
+Connect with me on HackerRank: [HackerRank ](https://www.hackerrank.com/maham_jamil)
+
+---
+
 Have a blast playing the Quiz Game! 🌟 Enjoy and share your feedback with us! 😄
