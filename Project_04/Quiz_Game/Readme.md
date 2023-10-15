@@ -6,7 +6,7 @@ Welcome to the Quiz Game! 🎉 This fun quiz will test your knowledge with quick
 1. 🚀 Access the Quiz Game.
 2. 📜 Read the instructions and start a new quiz.
 3. ❓ Answer a series of "True" or "False" questions.
-4. ✅ Get instant feedback on your answers.
+4. ✅ Get instant feedback on your answers. 
 5. 🏆 Try to achieve the highest score!
 
 # **Game Rules:**
