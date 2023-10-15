@@ -1,5 +1,5 @@
 question_data = [
-    {"category": "General Knowledge", "type": "boolean", "difficulty": "easy",
+    {"category": "General Knowledge", "type": "boolean", "difficulty": "easy", 
                                       "question": "French is an official language in Canada.", "correct_answer": "True",
                                       "incorrect_answers": ["False"]},
                                      {"category": "General Knowledge", "type": "boolean", "difficulty": "easy",
