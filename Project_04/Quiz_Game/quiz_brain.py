@@ -1,4 +1,4 @@
-class QuizBrain:
+class QuizBrain: 
 
     def __init__(self, q_list): 
         self.q_number = 0
