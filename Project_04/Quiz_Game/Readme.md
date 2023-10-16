@@ -1,5 +1,5 @@
 # Quiz Game  📝
-
+ 
 Welcome to the Quiz Game! 🎉 This fun quiz will test your knowledge with quick "True" or "False" questions. Here's how to get started:
 
 # **How to Play:**
