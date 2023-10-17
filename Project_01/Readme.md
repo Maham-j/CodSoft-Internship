@@ -1,4 +1,4 @@
-#  Calculator 🧮
+#  Calculator 🧮  
  This is a simple command-line calculator program written in Python. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division on two numbers. The calculator also supports a continuous calculation feature, which means you can perform multiple calculations in succession without restarting the program.
 
 ![Calculator Logo](calculator_logo.png)
